@@ -1,2 +1,2 @@
 # js-tuto-yt
-A code repo for javascript at Santy Learning
+A code repo for javascript for Santy learning.
